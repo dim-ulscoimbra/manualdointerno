@@ -1,0 +1,30 @@
+{
+  "itens": [
+    {
+      "titulo": "Acolhimento",
+      "slug": "acolhimento",
+      "resumo": "Primeiros passos no hospital.",
+      "conteudo": "## Bem-vindo\n\nEsta é uma página de **exemplo**. Substitua este texto pelo conteúdo real através do Pages CMS.\n\n- Identificação e acessos\n- Contactos úteis\n- Horários de referência",
+      "ligacoes": []
+    },
+    {
+      "titulo": "Contactos úteis",
+      "slug": "contactos-uteis",
+      "resumo": "Telefones e emails de referência.",
+      "conteudo": "Escreva aqui os contactos (exemplo). Pode usar listas:\n\n1. Secretariado\n2. Direção de Internato\n3. Informática",
+      "ligacoes": []
+    },
+    {
+      "titulo": "Regulamentos e documentos",
+      "slug": "regulamentos",
+      "resumo": "Normas e documentos de consulta.",
+      "conteudo": "Coloque aqui as normas internas e anexe os ficheiros na secção de ligações.",
+      "ligacoes": [
+        {
+          "texto": "Exemplo de ligação externa",
+          "url": "https://www.sns.gov.pt"
+        }
+      ]
+    }
+  ]
+}

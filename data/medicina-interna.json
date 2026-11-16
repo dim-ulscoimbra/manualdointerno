@@ -1,0 +1,17 @@
+{
+  "titulo": "Medicina Interna",
+  "resumo": "Enfermarias, urgência e rotinas do serviço.",
+  "seccoes": [
+    {
+      "titulo": "Apresentação",
+      "conteudo": "Texto de **exemplo** para Medicina Interna. Edite esta secção no Pages CMS.",
+      "imagem": ""
+    },
+    {
+      "titulo": "Informação prática",
+      "conteudo": "- Localização\n- Contactos\n- Horários\n\n> Pode adicionar, remover e reordenar secções.",
+      "imagem": ""
+    }
+  ],
+  "ligacoes": []
+}
