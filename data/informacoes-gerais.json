@@ -19,8 +19,18 @@
       "conteudo": "1. LEGISLAÇÃO EM VIGOR\n\nPortaria nº 79/2018 - Regulamento do Internato Médico\n\nDecreto de Lei nº 13/2018 - Regime Jurídico do Internato Médico\n\nLei 34/2018 - Alteração ao Regime Jurídico do Internato Médico\n\nPortaria 268/2018 - Definição do programa formativo da Formação Geral\n\nPortaria 337/2018- Alteração ao programa formativo da Formação Geral.\n\nO internato médico é gerido e coordenado pela Administração Central do Sistema de Saúde (ACSS), havendo diversos órgãos e serviços que colaboram com a mesma.",
       "ligacoes": [
         {
-          "texto": "Exemplo de ligação externa",
-          "url": "https://www.sns.gov.pt"
+          "texto": "CONSELHO NACIONAL DO INTERNATO MÉDICO (CNIM)",
+          "url": "https://www.acss.min-saude.pt/2016/09/12/internato-medico/"
+        },
+        {
+          "texto": "CONSELHO NACIONAL DO MÉDICO INTERNO (CNMI)",
+          "url": "https://www.cnmi.pt/"
+        },
+        {
+          "texto": "DIREÇÃO DO INTERNATO MÉDICO"
+        },
+        {
+          "texto": "COMISSÃO INTERNOS DA ULSCOIMBRA"
         }
       ]
     }
