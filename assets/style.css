@@ -45,11 +45,23 @@ a { color: var(--teal); }
   display: flex; align-items: center; justify-content: space-between; gap: 1rem;
 }
 .brand { display: flex; align-items: center; gap: .75rem; color: #fff; text-decoration: none; min-width: 0; }
+
+
 .brand__logo {
-  flex: none; width: 42px; height: 42px; border-radius: 12px; background: #fff;
-  display: grid; place-items: center;
+  flex: none;
+  height: 42px;
+  display: flex;
+  align-items: center;
 }
-.brand__logo svg { width: 26px; height: 26px; fill: var(--teal); }
+
+.brand__logo img {
+  display: block;
+  height: 42px;
+  width: auto;
+  object-fit: contain;
+}
+
+
 .brand__text { display: flex; flex-direction: column; line-height: 1.2; min-width: 0; }
 .brand__text strong { font-size: 1.1rem; letter-spacing: .2px; }
 .brand__text small { opacity: .85; font-size: .78rem; white-space: nowrap; }
