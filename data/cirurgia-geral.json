@@ -4,14 +4,11 @@
   "seccoes": [
     {
       "titulo": "Apresentação",
-      "conteudo": "Texto de **exemplo** para Cirurgia Geral. Edite esta secção no Pages CMS.",
-      "imagem": ""
+      "conteudo": ">  Diretor de serviço  \nProfessor Doutor José Guilherme Tralhão\n\n> Coordenador Consulta Externa  \nDr. Fernando Manata\n\n> Coordenador dos Internos de Formação Específica  \nDra. Maria Gorete Jorge / Dr. Ricardo Martins\n\n> Elo de ligação ao Serviço de Urgência  \nDr. António Pinho\n\n> Coordenador do Bloco Periférico  \nDr. Mário Sérgio e Dra. Catarina Melo\n\n> Coordenador Unidade de Cirurgia Ambulatória (UCA)  \nDr. Diogo Cabrita"
     },
     {
       "titulo": "Informação prática",
-      "conteudo": "- Localização\n- Contactos\n- Horários\n\n> Pode adicionar, remover e reordenar secções.",
-      "imagem": ""
+      "conteudo": "> Horário\n\nO estágio de Cirurgia Geral tem um horário semanal de 40 horas contemplando obrigatoriamente 12 horas semanais de urgência em período diurno ou noturno. O horário de entrada e saída da enfermaria é acordado com a equipa. O horário de urgência em período diurno é das 9:00 horas às 21:00 horas.\n\n> Urgência\n\nOs internos de formação geral realizam urgência no Pólo HUC. Durante o período diurno, encontram-se distribuídos entre a área cirúrgica dos Hospitais da Universidade de Coimbra e área cirúrgica do Hospital Geral.\n\n> Organização\n\nCada equipa é constituída por especialistas de cirurgia geral, internos de formação específica e internos de formação geral tendo em períodos letivos alunos do Mestrado Integrado em Medicina.\n\n> Reunião de Serviço \n\nA reunião geral do serviço de cirurgia geral decorre à sexta-feira às 10:00 horas nos auditórios dos Hospitais da Universidade de Coimbra. Devido à pandemia, as reuniões têm ocorrido por Zoom. No entanto, pode iniciar-se modelo híbrido (presencial + Zoom)\n\n\n\n> Pode adicionar, remover e reordenar secções.\n\n"
     }
-  ],
-  "ligacoes": []
+  ]
 }
