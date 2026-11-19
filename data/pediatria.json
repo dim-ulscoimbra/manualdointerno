@@ -1,0 +1,17 @@
+{
+  "titulo": "Pediatria",
+  "resumo": "Serviço de Pediatria: urgência, enfermaria e consulta.",
+  "seccoes": [
+    {
+      "titulo": "Apresentação",
+      "conteudo": "Texto de **exemplo** para Pediatria. Edite esta secção no Pages CMS.",
+      "imagem": ""
+    },
+    {
+      "titulo": "Informação prática",
+      "conteudo": "- Localização\n- Contactos\n- Horários\n\n> Pode adicionar, remover e reordenar secções.",
+      "imagem": ""
+    }
+  ],
+  "ligacoes": []
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "Medicina do Trabalho",
+  "resumo": "Consultas, vacinação e saúde ocupacional.",
+  "seccoes": [
+    {
+      "titulo": "Apresentação",
+      "conteudo": "Texto de **exemplo** para Medicina do Trabalho. Edite esta secção no Pages CMS.",
+      "imagem": ""
+    },
+    {
+      "titulo": "Informação prática",
+      "conteudo": "- Localização\n- Contactos\n- Horários\n\n> Pode adicionar, remover e reordenar secções.",
+      "imagem": ""
+    }
+  ],
+  "ligacoes": []
+}

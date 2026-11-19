@@ -1,0 +1,17 @@
+{
+  "titulo": "MGF",
+  "resumo": "Medicina Geral e Familiar: estágios, unidades e orientações.",
+  "seccoes": [
+    {
+      "titulo": "Apresentação",
+      "conteudo": "Texto de **exemplo** para MGF. Edite esta secção no Pages CMS.",
+      "imagem": ""
+    },
+    {
+      "titulo": "Informação prática",
+      "conteudo": "- Localização\n- Contactos\n- Horários\n\n> Pode adicionar, remover e reordenar secções.",
+      "imagem": ""
+    }
+  ],
+  "ligacoes": []
+}
