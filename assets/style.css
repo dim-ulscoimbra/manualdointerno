@@ -1,18 +1,18 @@
 :root {
-  --teal: #0b7a8f;
-  --teal-dark: #08586a;
-  --navy: #0a3d62;
-  --mint: #2bb39a;
-  --mint-soft: #e3f5f1;
-  --sky: #eaf4f8;
-  --bg: #f4f9fb;
+  --teal: #00866A;
+  --teal-dark: #006650;
+  --navy: #17483E;
+  --mint: #35A88D;
+  --mint-soft: #E2F4EF;
+  --sky: #EDF7F4;
+  --bg: #F5FAF8;
   --card: #ffffff;
-  --text: #17324d;
-  --muted: #5b7388;
-  --line: #d9e6ed;
+  --text: #173D35;
+  --muted: #5B756F;
+  --line: #D8E8E3;
   --radius: 22px;
-  --shadow: 0 10px 30px rgba(10, 61, 98, .10);
-  --shadow-hover: 0 18px 40px rgba(10, 61, 98, .18);
+  --shadow: 0 10px 30px rgba(0, 102, 80, .10);
+  --shadow-hover: 0 18px 40px rgba(0, 102, 80, .18);
 }
 
 * { box-sizing: border-box; }
